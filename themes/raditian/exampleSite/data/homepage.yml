@@ -99,7 +99,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "/img/who-am-i/user-picture.png"
 
   items:
     - title: "Sr. Front-End Developer"
