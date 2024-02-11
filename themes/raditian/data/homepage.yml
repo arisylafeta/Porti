@@ -67,11 +67,11 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/arisylafeta/"
+    URL: "https://www.linkedin.com/in/arianitsylafeta/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "resume.pdf"
 
   items:
     - title: "Trading Analyst"
