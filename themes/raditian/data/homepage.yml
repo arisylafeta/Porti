@@ -127,7 +127,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: ""https://arisylafeta-portfolio.netlify.app/categories/finance/
+        URL: "https://arisylafeta-portfolio.netlify.app/categories/finance/"
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
