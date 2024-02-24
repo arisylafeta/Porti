@@ -2,8 +2,8 @@
 showcase:
   enable: true
   title: "Hello, I’m Arianit."
-  subtitle: "Trader / Developer"
-  description: "I've co-founded Quantera, a quantemental fund based in London. We've set out to explore novel investing strategies based on alternative data, sprinkled with AI magic. Sounds interesting? Keep in touch."
+  subtitle: "Analyst / Developer"
+  description: "I've co-founded Quantera, a quantitative research and investing company based in London. We've set out to explore novel investing strategies based on alternative data, sprinkled with AI magic. Sounds interesting? Keep in touch."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -74,21 +74,21 @@ experience:
     URL: "resume.pdf"
 
   items:
-    - title: "Trading Analyst"
+    - title: "Quantitative Analyst"
       company: "Quantera"
       duration: "Oct 2022 - Sep 2023"
 
-    - title: "Equity Analyst Intern"
-      company: "Bloomberg"
+    - title: "Machine Learning Intern"
+      company: "Solaborate"
       duration: "May 2022 - Sep 2022"
 
     - title: "Software Developer"
       company: "Greenify"
       duration: "Sep 2021 - May 2022"
     
-    - title: "Machine Learning Intern"
-      company: "Solaborate"
-      duration: "May 2021 - Sep 2021"
+    - title: "Sales and Marketing Associate"
+      company: "ECOTEK"
+      duration: "May 2020 - Sep 2021"
 
 # Client & Work
 client_and_work:
@@ -129,30 +129,30 @@ client_and_work:
         btnText: "Case Study"
         URL: "https://arisylafeta-portfolio.netlify.app/categories/finance/"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/finance.png"
+        _2x: "img/works/finance@2x.png"
       is_even: true
 
     - title: "Data Science & AI"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      description: "Unlocking Insights with Advanced Analytics and AI Solutions."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Case Studies"
         URL: "https://arisylafeta-portfolio.netlify.app/categories/data-science-ai/"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/datascience.png"
+        _2x: "img/works/datascience@2x.png"
       is_even: false
 
-    - title: "Blockchain & DeFi"
+    - title: "Software & Web3 Development"
       description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "https://arisylafeta-portfolio.netlify.app/categories/blockchain-dapp/"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/softwaredev.png"
+        _2x: "img/works/softwaredev@2x.png"
       is_even: true
 
 # testimonial
@@ -160,26 +160,26 @@ testimonial:
   enable: true
   title: "Testimonials"
   items:
-    - name: "Daniel Jordan"
-      position: "Phonet, CEO"
-      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+    - name: "Lorenzo Mantilla Gutierrez"
+      position: "RBC BlueBay, Analyst"
+      content: "Working with  Arianit has been a delight. Their intellect shines as they effortlessly decode intricate concepts, making them accessible to everyone. Their programming skills are remarkable, modelling and automating complex tasks; and as a friend, they're always warm, supportive, and ever-helpful"
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "img/testimonials/lorenzo.png"
+        _2x: "img/testimonials/lorenzo@2x.png"
 
-    - name: "Jonathan Peters"
-      position: "Textic, CEO"
-      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+    - name: "Peter Millington"
+      position: "Santander, Head of Markets"
+      content: "Having worked closely with Arianit, I've witnessed their unwavering passion for financial markets. Their exceptional work ethic and ability to derive actionable insights from data are truly remarkable. They possess a rare talent for simplifying complex concepts, ensuring comprehension by all stakeholders."
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+        x: "img/testimonials/peter.png"
+        _2x: "img/testimonials/peter@2x.png"
 
-    - name: "Antonio Willis"
-      position: "Cyberse, CEO"
-      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+    - name: "Nikos Gakis"
+      position: "BNP Paribas, Analyst"
+      content: "Arianit is an invaluable asset to any team. Their analytical prowess and software development skills are top-notch, making them highly capable in any project. Beyond their expertise, their positive attitude and ambition inspire those around them, fostering a collaborative and dynamic work environment."
       image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        x: "img/testimonials/niko.png"
+        _2x: "img/testimonials/niko@2x.png"
 
 # contact
 contact:
