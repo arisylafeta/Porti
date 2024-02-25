@@ -117,13 +117,29 @@ client_and_work:
       alt: "Kanba"
 
     - logo:
+        x: "img/clients/mongodb.png"
+        _2x: "img/clients/mongodb@2x.png"
+      alt: "Zoo"
+    - logo:
+        x: "img/clients/react.png"
+        _2x: "img/clients/react@2x.png"
+      alt: "Zoo"
+    - logo:
+        x: "img/clients/node.png"
+        _2x: "img/clients/node@2x.png"
+      alt: "Zoo"
+    - logo:
+        x: "img/clients/tailwind.png"
+        _2x: "img/clients/tailwind@2x.png"
+      alt: "Zoo"
+    - logo:
         x: "img/clients/excel.png"
         _2x: "img/clients/excel@2x.png"
       alt: "Zoo"
 
   works:
     - title: "Finance"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      description: "Exploring Frontiers of Financial Modelling. Credit Valuation, Portfolio Management, and Algorithmic Trading."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -134,7 +150,7 @@ client_and_work:
       is_even: true
 
     - title: "Data Science & AI"
-      description: "Unlocking Insights with Advanced Analytics and AI Solutions."
+      description: "Unlocking Insights with Advanced Analytics and AI Solutions. Data Mining, Machine Learning, and Predictive Modelling."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Studies"
@@ -145,7 +161,7 @@ client_and_work:
       is_even: false
 
     - title: "Software & Web3 Development"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      description: "Building Scalable and Secure Software Solutions. Web Applications, DApps, and Smart Contracts."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -176,7 +192,7 @@ testimonial:
 
     - name: "Nikos Gakis"
       position: "BNP Paribas, Analyst"
-      content: "Arianit is an invaluable asset to any team. Their analytical prowess and software development skills are top-notch, making them highly capable in any project. Beyond their expertise, their positive attitude and ambition inspire those around them, fostering a collaborative and dynamic work environment."
+      content: "Arianit has always been eager to explore new subjects and put them to the test. He will always try to see how to apply things directly from the classroom into the real world. His coding skills and his ability to comprehend deep and complex concepts will enable him to integrate seamlessly into a variety of different teams."
       image:
         x: "img/testimonials/niko.png"
         _2x: "img/testimonials/niko@2x.png"
