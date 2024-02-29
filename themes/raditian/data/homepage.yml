@@ -142,7 +142,7 @@ client_and_work:
       description: "Exploring Frontiers of Financial Modelling. Credit Valuation, Portfolio Management, and Algorithmic Trading."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Projects"
         URL: "https://arisylafeta-portfolio.netlify.app/categories/finance/"
       image:
         x: "img/works/finance.png"
@@ -153,7 +153,7 @@ client_and_work:
       description: "Unlocking Insights with Advanced Analytics and AI Solutions. Data Mining, Machine Learning, and Predictive Modelling."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Studies"
+        btnText: "Projects"
         URL: "https://arisylafeta-portfolio.netlify.app/categories/data-science-ai/"
       image:
         x: "img/works/datascience.png"
@@ -164,8 +164,8 @@ client_and_work:
       description: "Building Scalable and Secure Software Solutions. Web Applications, DApps, and Smart Contracts."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "https://arisylafeta-portfolio.netlify.app/categories/blockchain-dapp/"
+        btnText: "Projects"
+        URL: "https://arisylafeta-portfolio.netlify.app/categories/software-development/"
       image:
         x: "img/works/softwaredev.png"
         _2x: "img/works/softwaredev@2x.png"
